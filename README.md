@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NoNeedMore
-- 👀 I’m interested in programer.
+- 👀 I’m interested in programing.
 - 🌱 I’m currently learning C++, C#, PHP (Database).
 - 📫 How to reach me contact my gmail: shandikamuhammadirvan@gmail.com
 
